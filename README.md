@@ -1,7 +1,7 @@
 ## Project Name
 - Github  search
 ## Author
-- ANDREW ODONGO
+- 
 ## Description
 
 - The website works in a way that one searches a Github account, get to explore and view  account in Github.
@@ -66,8 +66,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Contacts
 
-Tell:+254740478651
-Email:drewodong470@gmail.com
+
 
 ## license
-[MIT License](https://andrew1440.github.io/Gitsearch/blob/master/LICENSE) [andrew1440](https://github.com/andrew1440). 
+
