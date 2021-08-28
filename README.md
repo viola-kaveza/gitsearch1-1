@@ -2,6 +2,7 @@
 - Github  search
 ## Author
 - VIOLA KAVEZA
+- 
 ## Description
 
 - The website works in a way that one searches a Github account, get to explore and view  account in Github.
@@ -19,7 +20,6 @@
 
 ## BDD
 
-<img src="src/assets/">
 
  1. Displays GitHub info of a user when user name is entered
    - INPUT: "user name entered"
