@@ -13,12 +13,12 @@ export class ProfileService {
 
   username:string;
   client_id = 'af93ef785cfb010769d2';
-  client_secret = 'ceaf90465ea45b00e4a578e9a5fed40f21f37110';
+  client_secret = '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';
 
 
   constructor(private http:HttpClient) { 
     console.log("Service is now ready!");
-    this.username = "andrew1440";
+    this.username = "viola-kaveza";
   }
 
 
