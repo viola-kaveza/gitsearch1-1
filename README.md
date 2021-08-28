@@ -19,7 +19,7 @@
 
 ## BDD
 
-<img src="src/assets/Gitsearch.png">
+<img src="src/assets/">
 
  1. Displays GitHub info of a user when user name is entered
    - INPUT: "user name entered"
