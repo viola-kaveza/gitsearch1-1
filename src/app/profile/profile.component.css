@@ -57,6 +57,7 @@ input{
 }
 .p-center{
     text-align: center;
+    color: whitesmoke;
 }
 #intro{
     height: 300px;
