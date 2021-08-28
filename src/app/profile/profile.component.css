@@ -13,7 +13,7 @@ h2{
 }
 .prof{
     position: relative;
-    float: left;
+    float: right;
     width: 36vw;
     padding-top:2%;
     height: 70vh;
@@ -26,8 +26,9 @@ h2{
 #repos{
     text-align: center;
     position: relative;
+    float: left;
     top: 0;
-    display: block;
+    display: inline-table;
     width: 350vw;
 }
 
@@ -40,6 +41,14 @@ h1{
     color: whitesmoke;
     text-shadow: 4px 4px 5pxwhitesmoke; 
     font-family: 'Helevitica', fantasy;
+}
+h2{
+    font-size: 70px;
+    text-align:center;
+    padding:50px;
+    text-shadow: 4px 4px 5pxwhitesmoke; 
+    font-family: 'Helevitica', fantasy;
+    color: black;
 }
 .container{
     font-family: "fangsong", fantasy;
