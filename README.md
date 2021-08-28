@@ -1,7 +1,7 @@
 ## Project Name
 - Github  search
 ## Author
-- 
+- VIOLA KAVEZA
 ## Description
 
 - The website works in a way that one searches a Github account, get to explore and view  account in Github.
