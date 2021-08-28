@@ -69,4 +69,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## license
-
+[MIT License](https://viola-kaveza.github.io/Gitsearch1-1/blob/main/LICENSE) [viola-kaveza](https://github.com/viola-kaveza). 
